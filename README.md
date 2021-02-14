@@ -1,1 +1,1 @@
-baikal.ga
+https://baikal.ga
